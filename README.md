@@ -14,7 +14,3 @@
 <img align="right" src="/images/application_6.gif" width="30%" height="30%"/>
 
 
-
-
-
-
