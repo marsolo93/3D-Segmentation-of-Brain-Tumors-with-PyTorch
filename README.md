@@ -1,6 +1,6 @@
 # 3D-Segmentation-of-Brain-Tumors-with-PyTorch
 
-<img src="/images/output/video1.gif" width="250" height="250"/>
+<img src="/images/animation_video_1.gif" width="%50" height="%50"/>
 
 
 
